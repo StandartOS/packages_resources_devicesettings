@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Niski poziom jasności</string>
     <string name="doze_brightness_high">Wysoki poziom jasności</string>
     <string name="doze_brightness_adaptive">Adaptacyjna jasność ekranu</string>
+    <string name="ambient_enable">Używaj Ekranu Ambient</string>
     <string name="refresh_title">Częstotliwość odświeżania w aplikacjach</string>
     <string name="refresh_summary">Ustaw inną częstotliwość odświeżania do poszczególnych aplikacji </string>
     <string name="refresh_default">Domyślne</string>

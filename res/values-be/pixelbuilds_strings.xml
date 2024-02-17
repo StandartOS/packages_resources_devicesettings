@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Нізкая яркасць</string>
     <string name="doze_brightness_high">Высокая яркасць</string>
     <string name="doze_brightness_adaptive">Адаптыўная яркасць</string>
+    <string name="ambient_enable">Выкарыстоўваць Ambient Display</string>
     <string name="refresh_title">Частата абнаўлення прыкладанняў</string>
     <string name="refresh_summary">Усталюйце пэўную частату абнаўлення для кожнага прыкладання</string>
     <string name="refresh_default">Стандартныя</string>

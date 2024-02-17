@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Độ sáng thấp</string>
     <string name="doze_brightness_high">Độ sáng cao</string>
     <string name="doze_brightness_adaptive">Độ sáng thích ứng</string>
+    <string name="ambient_enable">Sử dụng màn hình xem nhanh</string>
     <string name="refresh_title">Tốc độ làm mới cho mỗi ứng dụng</string>
     <string name="refresh_summary">Đặt tốc độ làm mới cụ thể cho từng ứng dụng</string>
     <string name="refresh_default">Mặc định</string>

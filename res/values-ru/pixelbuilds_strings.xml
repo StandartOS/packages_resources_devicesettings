@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Низкий уровень яркости</string>
     <string name="doze_brightness_high">Высокий уровень яркости</string>
     <string name="doze_brightness_adaptive">Адаптивный уровень яркости</string>
+    <string name="ambient_enable">Использовать Ambient Display</string>
     <string name="refresh_title">Частота обновления приложений</string>
     <string name="refresh_summary">Установите определенную частоту обновления для каждого приложения</string>
     <string name="refresh_default">По умолчанию</string>

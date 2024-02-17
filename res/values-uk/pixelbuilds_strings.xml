@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="display_title">Показати</string>
+    <string name="display_title">Дисплей</string>
     <string name="dc_dimming_enable_title">Анти мерехтіння</string>
     <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
     <string name="dc_dimming_enable_summary_not_supported">Антимерехтіння наразі не підтримується ядром</string>
@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Низька яскравість</string>
     <string name="doze_brightness_high">Висока яскравість</string>
     <string name="doze_brightness_adaptive">Адаптивна яскравість</string>
+    <string name="ambient_enable">Використовувати Ambient Display</string>
     <string name="refresh_title">Частота оновлення для кожного додатка</string>
     <string name="refresh_summary">Встановіть певну частоту оновлення для кожного додатка</string>
     <string name="refresh_default">Типово</string>

@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Niedrige Helligkeit</string>
     <string name="doze_brightness_high">Hohe Helligkeit</string>
     <string name="doze_brightness_adaptive">Automatische Helligkeit</string>
+    <string name="ambient_enable">Ambient-Display anzeigen</string>
     <string name="refresh_title">Bildwiederholungsrate (Hz) per App</string>
     <string name="refresh_summary">Bestimmte Bildwiederholungsrate (Hz) für jede App einstellen</string>
     <string name="refresh_default">Standard</string>
