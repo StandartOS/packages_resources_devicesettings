@@ -214,6 +214,7 @@
     <string name="doze_brightness_low">Düşük parlaklık</string>
     <string name="doze_brightness_high">Yüksek parlaklık</string>
     <string name="doze_brightness_adaptive">Uyarlanabilir parlaklık</string>
+    <string name="ambient_enable">Ortam ekranını kullan</string>
     <string name="refresh_title">Uygulama başına yenileme hızı</string>
     <string name="refresh_summary">Her bir uygulama için özel yenileme hızı ayarlayın</string>
     <string name="refresh_default">Varsayılan</string>
